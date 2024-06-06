@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pf-app/static/css/main.367d31fc.css",
+    "main.js": "/pf-app/static/js/main.d55091e3.js",
+    "static/js/453.a0fe4b98.chunk.js": "/pf-app/static/js/453.a0fe4b98.chunk.js",
+    "index.html": "/pf-app/index.html",
+    "main.367d31fc.css.map": "/pf-app/static/css/main.367d31fc.css.map",
+    "main.d55091e3.js.map": "/pf-app/static/js/main.d55091e3.js.map",
+    "453.a0fe4b98.chunk.js.map": "/pf-app/static/js/453.a0fe4b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.367d31fc.css",
+    "static/js/main.d55091e3.js"
+  ]
+}
