@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/pf-app/build/static/css/main.4aa056dc.css",
-    "main.js": "/pf-app/build/static/js/main.a5b08e43.js",
+    "main.css": "/pf-app/build/static/css/main.4528ab03.css",
+    "main.js": "/pf-app/build/static/js/main.459af351.js",
     "static/js/453.a0fe4b98.chunk.js": "/pf-app/build/static/js/453.a0fe4b98.chunk.js",
     "static/media/plan.svg": "/pf-app/build/static/media/plan.32e0653a0e71c85c587b0e64c062ca33.svg",
     "static/media/control.svg": "/pf-app/build/static/media/control.ba34823dd37b62f45828966085ebf9e7.svg",
     "static/media/money_flow.svg": "/pf-app/build/static/media/money_flow.b32d1aa0284434a8ea76cd36e69000db.svg",
+    "static/media/left-arrow.svg": "/pf-app/build/static/media/left-arrow.a4409d04d0409da20195f6506cab1d95.svg",
+    "static/media/eye-off.svg": "/pf-app/build/static/media/eye-off.eb0a87724072a43c75fc923868975687.svg",
     "index.html": "/pf-app/build/index.html",
-    "main.4aa056dc.css.map": "/pf-app/build/static/css/main.4aa056dc.css.map",
-    "main.a5b08e43.js.map": "/pf-app/build/static/js/main.a5b08e43.js.map",
+    "static/media/eye.svg": "/pf-app/build/static/media/eye.bec9137229f8281c113a1ccd782a3209.svg",
+    "main.4528ab03.css.map": "/pf-app/build/static/css/main.4528ab03.css.map",
+    "main.459af351.js.map": "/pf-app/build/static/js/main.459af351.js.map",
     "453.a0fe4b98.chunk.js.map": "/pf-app/build/static/js/453.a0fe4b98.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4aa056dc.css",
-    "static/js/main.a5b08e43.js"
+    "static/css/main.4528ab03.css",
+    "static/js/main.459af351.js"
   ]
 }
