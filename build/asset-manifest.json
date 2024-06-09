@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pf-app/build/static/css/main.4528ab03.css",
-    "main.js": "/pf-app/build/static/js/main.459af351.js",
+    "main.js": "/pf-app/build/static/js/main.432c1347.js",
     "static/js/453.a0fe4b98.chunk.js": "/pf-app/build/static/js/453.a0fe4b98.chunk.js",
     "static/media/plan.svg": "/pf-app/build/static/media/plan.32e0653a0e71c85c587b0e64c062ca33.svg",
     "static/media/control.svg": "/pf-app/build/static/media/control.ba34823dd37b62f45828966085ebf9e7.svg",
@@ -11,11 +11,11 @@
     "index.html": "/pf-app/build/index.html",
     "static/media/eye.svg": "/pf-app/build/static/media/eye.bec9137229f8281c113a1ccd782a3209.svg",
     "main.4528ab03.css.map": "/pf-app/build/static/css/main.4528ab03.css.map",
-    "main.459af351.js.map": "/pf-app/build/static/js/main.459af351.js.map",
+    "main.432c1347.js.map": "/pf-app/build/static/js/main.432c1347.js.map",
     "453.a0fe4b98.chunk.js.map": "/pf-app/build/static/js/453.a0fe4b98.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4528ab03.css",
-    "static/js/main.459af351.js"
+    "static/js/main.432c1347.js"
   ]
 }
